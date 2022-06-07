@@ -2443,3 +2443,30 @@ input, select, textarea {
 					}
 
 	}
+
+
+#education .line {
+	background-color: #f24759;
+}
+
+#portfolio .line {
+	background-color: #f24759;
+}
+
+#skills .line {
+	background-color: #f24759;
+}
+
+.centered {
+	margin-left: auto;
+	margin-right: auto;
+	float: none;
+}
+
+.line {
+	display: block;
+	width: 400px;
+	height: 3px;
+	padding: 0!important;
+	background: #ccc;
+}
